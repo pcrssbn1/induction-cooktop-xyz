@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://induction-cooktop.xyz/sitemap.xml
